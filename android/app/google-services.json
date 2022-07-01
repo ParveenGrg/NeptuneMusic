@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927956079667",
+    "project_id": "neptunemusic-6c681",
+    "storage_bucket": "neptunemusic-6c681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927956079667:android:f28907b70ed74d6170bf46",
+        "android_client_info": {
+          "package_name": "com.example.neptune_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927956079667-1as0385hq7q1qll8r56rv3mqvkpdkbi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neptune_music",
+            "certificate_hash": "8bbb315fd7ff03dacc5f1b261159480099d4fb0b"
+          }
+        },
+        {
+          "client_id": "927956079667-hgeieh258nabnh4kmj5p0drd17d5rjit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAniizjL7PPQYsdjKSFGtuY5purJV7lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927956079667-hgeieh258nabnh4kmj5p0drd17d5rjit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
